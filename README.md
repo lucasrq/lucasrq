@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/lucasrq">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=lucasrq&theme=dark&border_radius=4&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=496" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=lucasrq&theme=dark&border_radius=4&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_height=180em" alt="GitHub Streak">
   </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrq&layout=compact&langs_count=7&theme=dracula"/>
